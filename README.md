@@ -31,5 +31,4 @@ chmod +x samcrypt.py
 python3 samcrypt.py
 ```
 
-## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+### [+] Thank You for using ;)
