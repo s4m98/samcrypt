@@ -3,8 +3,12 @@
 ### [+] Description
 SamCrypt is a Python-based encryption tool that allows users to encrypt and decrypt files using both symmetric (AES) and asymmetric (RSA) encryption methods. This tool provides a simple command-line interface for secure file handling.
 
-## Example Image: 
+## Example Image: AES Encryption
+
 ![Alt text](https://raw.githubusercontent.com/s4m98/samcrypt/refs/heads/main/samcrypt.png)
+
+## RSA Encryption:
+
 ![Alt text](https://raw.githubusercontent.com/s4m98/samcrypt/refs/heads/main/samcrypt2.png)
 
 ## Prerequisites
